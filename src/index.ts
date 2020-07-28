@@ -1,8 +1,3 @@
-function helloworld (msg = 'Hello World!'): string {
-  console.log(msg)
-  return msg
-}
+import helloWorld from './models/helloWorld'
 
-helloworld()
-
-export default helloworld
+helloWorld()

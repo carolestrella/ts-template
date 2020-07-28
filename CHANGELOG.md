@@ -4,15 +4,4 @@
 
 Initial Release.
 
-**Added:**
-- tsconfig 
-- nodemon 
-- jest
-- eslint
-- helloworld function
-- tests
-- Changelog
-
-**Changed:**
-- package.json
 
