@@ -1,3 +1,3 @@
-import helloWorld from './models/helloWorld'
+import helloWorld from './modules/helloWorld'
 
 helloWorld()

@@ -1,4 +1,4 @@
-import helloworld from '../models/helloWorld'
+import helloworld from '../modules/helloWorld'
 
 test('helloworld function to be "Hello World!"', () => {
   expect(helloworld()).toBe('Hello World!')
